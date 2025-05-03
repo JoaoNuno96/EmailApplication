@@ -1,0 +1,17 @@
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\bin\Debug\net6.0-windows\EmailApplication.exe
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\bin\Debug\net6.0-windows\EmailApplication.deps.json
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\bin\Debug\net6.0-windows\EmailApplication.runtimeconfig.json
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\bin\Debug\net6.0-windows\EmailApplication.dll
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\bin\Debug\net6.0-windows\EmailApplication.pdb
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\obj\Debug\net6.0-windows\EmailApplication.Form1.resources
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\obj\Debug\net6.0-windows\EmailApplication.csproj.GenerateResource.cache
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\obj\Debug\net6.0-windows\EmailApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\obj\Debug\net6.0-windows\EmailApplication.AssemblyInfoInputs.cache
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\obj\Debug\net6.0-windows\EmailApplication.AssemblyInfo.cs
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\obj\Debug\net6.0-windows\EmailApplication.csproj.CoreCompileInputs.cache
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\obj\Debug\net6.0-windows\EmailApplication.dll
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\obj\Debug\net6.0-windows\refint\EmailApplication.dll
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\obj\Debug\net6.0-windows\EmailApplication.pdb
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\obj\Debug\net6.0-windows\EmailApplication.genruntimeconfig.cache
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\obj\Debug\net6.0-windows\ref\EmailApplication.dll
+C:\Users\joaon\Desktop\CSHARP COMPLETO Programação Orientada a Objetos\Seccao 19 - Projecto BookStore\EmailApplication\EmailApplication\obj\Debug\net6.0-windows\EmailApplication.Form2.resources
